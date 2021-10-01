@@ -47,17 +47,24 @@
 .nav ul li:hover:after{
 	width: 100%;
 }
-.content{
-	position: absolute;
-	top: 45%;
-	left: 20%;
-	transition: translate(-50%,-50%);
-	text-align: center;
-	color: #fff;
-}
 .content h1{
 	font-size: 70px;
+	font-weight: 100;
+	margin-top: 24px;
+	margin-bottom: 15px;
+	color: #fff;
 }
+.content p{
+	margin: 2px auto;
+	font-weight: 100;
+	line-height: 25px;
+	color: #fff;
+}
+.content{
+	margin-left: 20%;
+	margin-top: 12%;
+}
+
 .content p{
 	margin: 2px auto;
 	font-weight: 100;
