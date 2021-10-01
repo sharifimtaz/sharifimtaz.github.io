@@ -71,10 +71,8 @@
 	line-height: 25px;
 }
 .img {
-	position: absolute;
-	top: 30%;
-	left: 65%;
-	transition: translate(-50%,-50%);
+	margin-left: 60%;
+	margin-top: -15%;
 }
 .img img{
 	height: 500px;
